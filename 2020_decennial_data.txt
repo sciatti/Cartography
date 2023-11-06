@@ -1,0 +1,4 @@
+Population data from the 2020 census: https://data.census.gov/map?t=Populations+and+People&g=050XX00US26099$1400000,26125$1400000,26161$1400000,26163$1400000&tid=DECENNIALDHC2020.P1&layer=VT_2020_140_00_PY_D1&mode=thematic&loc=42.4659,-83.3183,z8.5571
+
+census tract shapefiles: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=Census+Tracts
+
